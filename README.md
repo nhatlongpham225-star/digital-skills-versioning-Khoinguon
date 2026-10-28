@@ -17,4 +17,8 @@ Dự án này được tạo ra nhằm mục đích:
 - Git / GitHub
 - Python 3.x
 - HTML & CSS (cho phần giao diện mẫu)
+- Commit là hành động lưu lại trạng thái hiện tại của mã nguồn vào lịch sử hệ thống
+- Branch là nhánh độc lập có thể chỉnh sửa mà không ảnh hưởng đến main
+- Push là hành động gửi các repository lên Github
+- Pull lấy các thay đổi từ repository trên Github về máy tính của bạn
 
