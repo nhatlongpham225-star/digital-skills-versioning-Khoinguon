@@ -16,5 +16,8 @@ Dự án này được tạo ra nhằm mục đích:
 ## 🛠 Công nghệ sử dụng
 - Git / GitHub
 - Python 3.x
-- HTML & CSS (cho phần giao diện mẫu)
- Kết quả 
+- HTML & CSS (cho phần giao diện mẫu) 
+## Kết quả
+- Hoàn thành khởi tạo dự án giả trên GitHub.
+- Thực hiện commit và push thành công.
+- Tạo branch để chỉnh sửa báo cáo.
